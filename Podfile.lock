@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.1)
+  - DITranquillity (3.5.2):
+    - SwiftLazy
+  - SwiftLazy (1.1.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.1)
+  - DITranquillity (= 3.5.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DITranquillity
+    - SwiftLazy
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  DITranquillity: 7819403cce5c452cfeb1b6fab8465865d789a7d5
+  SwiftLazy: 97940cd352cc27beee2a4326ed80c59ffbbe87fd
+
+PODFILE CHECKSUM: c8403844e6da87856862df80a023f0aeb0ef6f5f
+
+COCOAPODS: 1.5.3
