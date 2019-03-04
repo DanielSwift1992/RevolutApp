@@ -139,7 +139,6 @@
 			isa = PBXGroup;
 			children = (
 				656F68862227D5850015A05B /* RevolutApp */,
-				656F68DD2227FA480015A05B /* Common */,
 				656F689B2227D5870015A05B /* RevolutAppTests */,
 				656F68852227D5850015A05B /* Products */,
 				6B42D163FB0AFBA2DE9D9ADB /* Pods */,
@@ -279,14 +278,6 @@
 			path = NetworkManagable;
 			sourceTree = "<group>";
 		};
-		656F68DD2227FA480015A05B /* Common */ = {
-			isa = PBXGroup;
-			children = (
-				656F68DE2227FA550015A05B /* Models */,
-			);
-			path = Common;
-			sourceTree = "<group>";
-		};
 		656F68DE2227FA550015A05B /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -337,6 +328,7 @@
 				654224F2222D3C0A003287A8 /* DecimalMask.swift */,
 				654224F4222D3C60003287A8 /* DecimalFormatting.swift */,
 				654224E6222C4216003287A8 /* AlertRouter.swift */,
+				656F68DE2227FA550015A05B /* Models */,
 			);
 			path = Common;
 			sourceTree = "<group>";
